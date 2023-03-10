@@ -1,5 +1,5 @@
-# VulkanSceneGraphWeb
-Collection of VulkanSceneGraph projects and asscoiated documentation/tutorials
+![VulkanSceneGraph](https://raw.githubusercontent.com/vsg-dev/VulkanSceneGraph/master/docs/images/VSGlogo.png)
+
 
 Reference Documentation:
 * [VulkanSceneGraph](ref/VulkanSceneGraph/html/index.html)
