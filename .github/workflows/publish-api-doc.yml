@@ -17,6 +17,7 @@ jobs:
 
     - name: Create clean gh-pages branch
       run:  git checkout -b gh-pages
+      run:  git submodule update --init --recursive
 
     - name: Install Doxygen
       run: sudo apt install doxygen graphviz
