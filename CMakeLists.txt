@@ -11,8 +11,8 @@ add_subdirectory(vsgXchange)
 set(DOXYGEN_OUTPUT_DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/ref/vsgImGui)
 add_subdirectory(vsgImGui)
 
-set(DOXYGEN_OUTPUT_DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/ref/vsgQt)
-add_subdirectory(vsgQt)
+#set(DOXYGEN_OUTPUT_DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/ref/vsgQt)
+#add_subdirectory(vsgQt)
 
 set(DOXYGEN_OUTPUT_DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/ref/vsgExamples)
 add_subdirectory(vsgExamples)
