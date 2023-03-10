@@ -38,7 +38,7 @@ jobs:
       run:  |
         git config --global user.email "robert.osfield@gmail.com"
         git config --global user.name  "$GITHUB_WORKFLOW GitHub action"
-        git add api-doc
+        git add ref
         git commit -am "Generated API doc"
 
     - name: Publish autodocs as GitHub pages
