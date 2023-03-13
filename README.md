@@ -2,8 +2,11 @@
 
 
 Reference Documentation:
-* [VulkanSceneGraph](ref/VulkanSceneGraph/html/index.html)
-* [vsgXchange](ref/vsgXchange/html/index.html)
-* [vsgImGui](ref/vsgImGui/html/index.html)
-* [vsgQt](ref/vsgQt/html/index.html)
-* [vsgExamples](ref/vsgExmaples/html/index.html)
+* [VulkanSceneGraph](ref/VulkanSceneGraph/html/classes.html)
+* [vsgXchange](ref/vsgXchange/html/classes.html)
+* [vsgImGui](ref/vsgImGui/html/classes.html)
+* [vsgQt](ref/vsgQt/html/classes.html)
+* [vsgExamples](ref/vsgExmaples/html/classes.html)
+
+Website creation links:
+* [NOTES](NOTES.md)
