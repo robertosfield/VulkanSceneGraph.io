@@ -36,12 +36,14 @@ The VulkanSceneGraph project is comprised of the main VulkanSceneGraph library (
 * [vsgSDL](https://github.com/ptrfun/vsgSDL) SDL integration with VulkanSceneGraph.
 * [vsgvr](https://github.com/geefr/vsgvr) OpenVR integration with VulkanSceneGraph.
 
-Reference Documentation:
+## Reference Documentation:
 * [VulkanSceneGraph](ref/VulkanSceneGraph/html/annotated.html)
 * [vsgXchange](ref/vsgXchange/html/annotated.html)
 * [vsgImGui](ref/vsgImGui/html/annotated.html)
 * [vsgQt] - TODO
 * [vsgExamples](ref/vsgExmaples/html/annotated.html)
 
-Website creation links:
+---
+
+## Website creation links:
 * [NOTES](NOTES.md)
